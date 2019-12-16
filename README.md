@@ -8,9 +8,9 @@
 
 -->
 
-# Project name here
+# Deep Learning Notebooks
 
-> Summary description here.
+> 汇总深度学习测试、验证、整理相关脚本及内容.
 
 
 This file will become your README and also the index of your documentation.
@@ -25,7 +25,7 @@ Fill me in please! Don't forget code examples:
 <div class="codecell" markdown="1">
 <div class="input_area" markdown="1">
 
-```
+```python
 1+1
 ```
 
