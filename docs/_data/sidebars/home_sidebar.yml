@@ -11,7 +11,7 @@ entries:
       url: /
     - output: web,pdf
       title: Title
-      url: /test
+      url: /core
     output: web
     title: nbdev_test
   output: web
