@@ -1,7 +1,7 @@
 repository: ddebby/nbdev_test
 output: web
-topnav_title: nbdev_test
-site_title: nbdev_test
+topnav_title: Learning.Notes
+site_title: Learning.Notes
 company_name: ebby
 description: Nothing to Do
 # Set to false to disable KaTeX math
